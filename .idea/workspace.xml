@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b39e9038-ebe6-498c-ba44-9a47ff8f0b76" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/logic_gates-19f4eb4cfd5e79cd/output-test-integration-test-half_adder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/logic_gates-b304ba792acc8b21/output-lib-logic_gates" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/half_adder-q79eh34s80no/s-gh8p37bsqc-1yjcf45-1oeuhluvd2g0j/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/half_adder-q79eh34s80no/s-gh8p37bsqc-1yjcf45-1oeuhluvd2g0j/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/half_adder-q79eh34s80no/s-gh8p37bsqc-1yjcf45-1oeuhluvd2g0j/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/half_adder-q79eh34s80no/s-gh8p37bsqc-1yjcf45.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-20ajv2cdn9d1/s-gh8p3795kg-1xsmvl5-1vuf8aq1sb5zk/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-20ajv2cdn9d1/s-gh8p3795kg-1xsmvl5-1vuf8aq1sb5zk/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-20ajv2cdn9d1/s-gh8p3795kg-1xsmvl5-1vuf8aq1sb5zk/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-20ajv2cdn9d1/s-gh8p3795kg-1xsmvl5.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-weno9h6h98vv/s-gh8p3795j5-o663j3-1k59ck0yt5tx3/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-weno9h6h98vv/s-gh8p3795j5-o663j3-1k59ck0yt5tx3/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-weno9h6h98vv/s-gh8p3795j5-o663j3-1k59ck0yt5tx3/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/logic_gates-weno9h6h98vv/s-gh8p3795j5-o663j3.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="85f49dca-b73f-4aa9-8330-b0f294dd43e7" />
+        <option name="url" value="https://github.com/xianchangjie/logic_gates.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="eehwskry" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KFiixmsIcGvanqJE20KLeVFsm2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/xianchangjie/pj/logic_gates&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;language.rust.cargo.check&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RustProjectSettings">
+    <option name="externalLinter" value="Clippy" />
+    <option name="runExternalLinterOnTheFly" value="true" />
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b39e9038-ebe6-498c-ba44-9a47ff8f0b76" name="Changes" comment="" />
+      <created>1673576862995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673576862995</updated>
+      <workItem from="1673576864007" duration="1362000" />
+      <workItem from="1673596663467" duration="2070000" />
+      <workItem from="1673598999316" duration="871000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1673599759763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673599759763</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".travis.yml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
